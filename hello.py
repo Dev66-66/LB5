@@ -10,7 +10,6 @@ btn = ttk.Button(root, text = "Hello")
 btn.place(relx = .5, rely = .5, anchor ='center')
 root.mainloop()
 
-root.mainloop()
 
 
 
