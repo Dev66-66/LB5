@@ -7,7 +7,6 @@ import numpy as np
 
 
 class QuadraticPlotApp:
-    """Tkinter приложение с встроенным графиком y = x^2."""
 
     def __init__(self, root: tk.Tk) -> None:
         self.root = root
